@@ -1,19 +1,26 @@
 import React from "react";
 import { Navbar } from 'react-bootstrap';
-import TodoListView from '../TodoListView/TodoList';
 import "./App.css";
+import Layout from '../../containers/Layout/Layout'
+import {Route, Switch, Redirect } from 'react-router-dom'
+
+import NewPage from '../../newpage'
 
 
 function App() {
     return (
-        <div className="App">
-            <Navbar bg="dark" variant="dark">
-                <Navbar.Brand >
-                    TODO LIST
-                </Navbar.Brand>
-            </Navbar>
-            <TodoListView />
-        </div>
+         <div>
+
+            <div className="App">
+
+
+           
+                
+                <Switch>
+                <Route exact path="/" component={Layout} />
+                <Route exact path="/NewPage" component={NewPage} />
+                </Switch>
+            </div></div>
     );
 }
 

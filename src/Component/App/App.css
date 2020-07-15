@@ -12,6 +12,9 @@
     font-size: calc(10px + 2vmin);
     color: white;
   }
+  .menu1{
+    text-align: left;
+  }
   
   .App-link {
     color: #61dafb;

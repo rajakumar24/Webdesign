@@ -1,0 +1,53 @@
+.sidebar {
+    position: fixed;
+    width: 240px;
+    max-width: 70%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    z-index: 200;
+    background-color: white;
+    padding: 32px 16px;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-out;
+  }
+  
+  .open{
+      transform: translateX(0);
+  }
+  .close{
+    transform: translateX(-100%);
+
+  }
+  .pagesCard{
+    position: absolute;
+    margin-top: 440px;
+  }
+.pages{
+  margin-top: 440px;
+  margin-left: 0px;
+  margin-bottom: 5px;
+  margin-right: 105px;
+}
+.page-block{
+  margin-top: 450px;
+  margin-left: 0px;
+  margin-bottom: 5px;
+  margin-right: 105px;
+  }
+.delete-page{
+  margin-top: 450px;
+  margin-left: 0px;
+  margin-bottom: 5px;
+  margin-right: 95px;
+  }
+  .card{
+    top: 40px;
+     margin-left: 0px;
+     margin-bottom: 5px;
+     margin-right: 105px;
+     background-color:cyan;
+ }
+ 
+  

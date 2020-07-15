@@ -1,0 +1,10 @@
+.menu{
+    width: 50px;
+    height: 20;
+    
+    background-color: rgb(231, 9, 113);
+    margin-left: 5px;
+    margin-top: 0px;
+text-align: center;
+color: white;
+}

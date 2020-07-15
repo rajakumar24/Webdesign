@@ -1,0 +1,490 @@
+.component{
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 20px;
+    z-index: 0;
+}
+.component1{
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 230px;
+    
+}
+
+.component2{
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.card{
+  
+    margin-left: 17px;
+    margin-bottom: 5px;
+    margin-right: 105px;
+    background-color: rgb(209, 208, 203);
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: rgb(47, 47, 231);
+    border-radius: 0x!important;
+}
+.todoCard{
+    position: absolute;
+    top: 485px;
+    width: 665px;
+    height: 40px;
+}
+.todoCard1{
+    position: absolute;
+    top: 485px;
+    width: 665px;
+    height: 40px;
+}
+.card1{
+    margin-top: 340px;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    margin-right: 105px;
+    background-color: rgb(209, 208, 203);
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: rgb(47, 47, 231);
+    border-radius: 0x!important;
+}
+.ModalStyle {
+    margin: 10px;
+  }
+.ModalTitle{
+    padding: 10px;
+    align-self: center;
+}
+
+.container-f1{
+    position: absolute;
+    top: 140px;
+    width: 100%;
+    height: 40px;
+    margin: 2px;
+    
+}
+.container-fluid1{
+    position: relative;
+    top: 45px;
+   
+    width: 100%;
+    height: 500px;
+    border: 0px solid #f6f8f4;
+}
+.p2{
+    position: absolute;
+    top: 2px;
+    left: 20px;
+    font-weight: bold;
+    color: rgb(34, 136, 231);
+}
+.p3{
+    position: absolute;
+    top: 2px;
+    left: 20px;
+    font-weight: bold;
+    color: rgb(25, 167, 12);
+}
+.buttongroup{
+    position: absolute;
+    top: 2px;
+    right: 60px;
+    font-weight: 5rem;
+}
+.btnSize1{
+    width: 150px!important;
+    
+    border-top-left-radius: 5px!important;
+    border-bottom-right-radius: 0px!important;
+    border-top-right-radius: 0px!important;
+   
+   font-weight: 400!important;
+   
+}
+.btnSize1:hover{
+    background-color: rgb(105, 103, 103)!important;
+}
+
+.btnSize2{
+    width: 150px!important;
+    border-radius: 0px!important;
+}
+.btnSize3{
+    width: 150px!important;
+    border-radius: 0px!important;
+}
+.btnSize4{
+    width: 150px!important;
+    border-bottom-left-radius: 0px!important;
+    border-top-left-radius: 0px!important;
+
+    border-top-right-radius: 5px!important;
+}
+.btnSize5{
+    position: absolute;
+    top: 5px;
+    right: 15px;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 0px;
+  color: white;
+  font-size: 1em;
+
+}
+.tableItem{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    
+    
+}
+.tableItem1{
+    
+    top: 40px;
+    width: 665px;
+    height: 40px;
+    font-size: 25px;
+    
+    background-color: rgb(209, 208, 203);
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: rgb(47, 47, 231);
+    
+}
+.mesIcon1{
+   
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
+.tablePosition{
+    position: relative;
+    width: 100%;
+}
+.owner1{
+    position: absolute;
+     top: 60px;
+    right: 500px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(209, 208, 203);
+
+}
+.ownerIcon1{
+    position: absolute;
+    left: 60px;
+    top: 5px;
+}
+.status1{
+    position: absolute;
+     top: 60px;
+    right: 338px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(231, 110, 12);
+    color: white;
+
+}
+.statusIcon1{
+   position: absolute;
+   left: 33px;
+   top: 9px;
+}
+.due1{
+    position: absolute;
+    top: 60px;
+   right: 206px;
+   width: 130px;
+   height: 40px;
+   background-color: rgb(209, 208, 203);
+}
+.dueDate1{
+    position: absolute;
+    left: 43px;
+    top: 11px;
+}
+.priority1{
+    position: absolute;
+    top: 60px;
+    right: 59px;
+    width: 145px;
+   height: 40px;
+   background-color: black;
+   color: white;
+}
+.priorityText1{
+    position: absolute;
+    left: 43px;
+    top: 9px;
+}
+.tableItem2{
+    
+    width: 665px;
+    height: 40px;
+    font-size: 25px;
+    background-color: rgb(209, 208, 203);
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: rgb(47, 47, 231);
+}
+.mesIcon2{
+   
+    position: absolute;
+    top: 52px;
+    right: 20px;
+}
+.owner2{
+    position: absolute;
+     top: 56px;
+    right: 0px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(209, 208, 203);
+
+}
+
+.ownerIcon2{
+    position: absolute;
+    left: 60px;
+    top: 5px;
+}
+.status2{
+    position: absolute;
+     top: 116px;
+    right: 338px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(206, 35, 134);
+    color: white;
+
+}
+.statusIcon2{
+   position: absolute;
+   left: 60px;
+   top: 10px;
+}
+.due2{
+    position: absolute;
+    top: 116px;
+    right: 206px;
+    width: 130px;
+   height: 40px;
+   background-color: rgb(209, 208, 203);
+}
+.dueDate2{
+    position: absolute;
+    left: 43px;
+    top: 11px;
+}
+.priority2{
+    position: absolute;
+    top: 116px;
+    right: 59px;
+    width: 145px;
+   height: 40px;
+   background-color: rgb(192, 14, 139);
+   color: white;
+
+}
+.priorityText2{
+    position: absolute;
+    left: 53px;
+    top: 11px;
+}
+.tableItem3{
+    width: 665px;
+    height: 40px;
+    font-size: 25px;
+    background-color: rgb(209, 208, 203);
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: rgb(47, 47, 231);
+}
+.mesIcon3{
+   
+    position: absolute;
+    top: 106px;
+    right: 20px;
+}
+.owner3{
+    position: absolute;
+     top: 112px;
+    right: 0px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(209, 208, 203);
+
+}
+.ownerIcon3{
+    position: absolute;
+    left: 60px;
+    top: 5px;
+}
+.status3{
+    position: absolute;
+     top: 172px;
+    right: 338px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(46, 72, 216);
+    text-align: center;
+    color: white;
+
+}
+.statusIcon3{
+   position: absolute;
+   left: 15px;
+   top: 9px;
+}
+.due3{
+    position: absolute;
+    top: 172px;
+    right: 206px;
+    width: 130px;
+   height: 40px;
+   background-color:    rgb(209, 208, 203);
+}
+.dueDate3{
+    position: absolute;
+    left: 43px;
+    top: 11px;
+}
+.priority3{
+    position: absolute;
+    top: 172px;
+    right: 59px;
+    width: 145px;
+   height: 40px;
+   background-color: rgb(22, 115, 221);
+   color: white;
+
+}
+.priorityText3{
+    position: absolute;
+    left: 45px;
+    top: 9px;
+}
+.tableItem4{
+    width: 665px;
+    height: 40px;
+    font-size: 25px;
+    background-color: rgb(209, 208, 203);
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: rgb(47, 47, 231);
+}
+.tableItem5{
+    width: 665px;
+    height: 40px;
+    font-size: 25px;
+    background-color: white;
+    
+    border-left-width: 8px;
+    border-radius: 0px;
+    border-left-color: rgb(134, 153, 206);
+}
+.tableItem6{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+    width: 665px;
+    height: 40px;
+    font-size: 25px;
+    background-color: white;
+    
+    border-left-width: 8px;
+    border-radius: 0px;
+    border-left-color: rgb(45, 238, 45);
+}
+.mesIcon4{
+   
+    position: absolute;
+    top: 162px;
+    right: 20px;
+}
+.owner4{
+    position: absolute;
+     top: 168px;
+    right: 0px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(209, 208, 203);
+
+}
+.ownerIcon4{
+    position: absolute;
+    left: 57px;
+    top: 9px;
+}
+.status4{
+    position: absolute;
+     top: 228px;
+    right: 338px;
+    width: 160px;
+    height: 40px;
+    background-color: rgb(18, 128, 8);
+    color: white;
+
+}
+.statusIcon4{
+   position: absolute;
+   left: 60px;
+   top: 11px;
+}
+.due4{
+    position: absolute;
+    top: 228px;
+    right: 206px;
+    width: 130px;
+   height: 40px;
+   background-color: rgb(209, 208, 203);
+}
+.dueDate4{
+    position: absolute;
+    left: 45px;
+    top: 9px;
+}
+.priority4{
+    position: absolute;
+    top: 228px;
+    right: 59px;
+    width: 145px;
+   height: 40px;
+   background-color: rgb(47, 4, 97);
+   color: white;
+
+}
+.priorityText4{
+    position: absolute;
+    left: 55px;
+    top: 8px;
+}
+.form{
+    position: absolute;
+    margin-top: 12px;
+    width: 665px;
+    height: 40px;
+    background-color: rgb(209, 208, 203);
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: rgb(47, 47, 231);
+    
+}
+.FormPostion{
+    width: 100%;
+    height: 200px;
+}
+.dropdown{
+    position: absolute;
+    right: 307px;
+   top: 470px;
+    height: 40px;
+    width: 160px;
+    background-color: rgb(214, 60, 14);
+    
+    text-align: center;
+}

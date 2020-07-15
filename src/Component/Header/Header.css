@@ -1,0 +1,34 @@
+.header{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    margin-top: 5px;
+    padding: 20px;
+   text-align: initial;
+}
+.header1{
+    margin-left: 60px;
+    color: rgb(16, 199, 32);
+}
+.absolute {
+    position: absolute;
+    right: 215px;
+    width: 100px;
+    height: 40px;
+    border: 1px solid #cfd1cc;
+    border-radius: 25px!important;
+    text-align: center;
+  }
+  .input{
+    position: absolute;
+    top: 100px;
+    right: 10px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid #c3c5bf;
+    border-radius: 25px!important;
+    text-align: center;
+    
+  }
+  
+
